@@ -1,0 +1,20 @@
+2022-09-23 16:26:03,751 +0530 [main] DEBUG (MyClass.java:14) - Hello this is a debug message
+2022-09-23 16:26:03,757 +0530 [main] INFO  (MyClass.java:15) - Hello this is an info message
+2022-09-28 16:27:57,941 +0530 [main] DEBUG (MyClass.java:14) - Hello this is a debug message
+2022-09-28 16:27:57,944 +0530 [main] INFO  (MyClass.java:15) - Hello this is an info message
+2022-09-28 16:31:38,386 +0530 [main] DEBUG (MyClass.java:14) - Hello this is a debug message
+2022-09-28 16:31:38,391 +0530 [main] INFO  (MyClass.java:15) - Hello this is an info message
+2022-09-28 16:31:38,391 +0530 [main] WARN  (MyClass.java:16) - warning message
+2022-09-28 16:31:38,391 +0530 [main] ERROR (MyClass.java:18) - error
+2022-09-28 16:31:38,392 +0530 [main] FATAL (MyClass.java:19) - fatal
+2022-09-28 17:17:57,739 +0530 [main] INFO  (MyClass.java:15) - Initializing the variables for a mathematical operation
+2022-09-28 17:17:57,756 +0530 [main] WARN  (MyClass.java:22) - The result will be less than 1
+2022-09-28 17:17:57,757 +0530 [main] DEBUG (MyClass.java:27) - 2 is divided by 3 and the result is 0
+2022-09-28 17:17:57,757 +0530 [main] DEBUG (MyClass.java:29) - 0 is added to the result and obtained 0
+2022-09-28 17:17:57,757 +0530 [main] DEBUG (MyClass.java:27) - 2 is divided by 2 and the result is 1
+2022-09-28 17:17:57,757 +0530 [main] DEBUG (MyClass.java:29) - 1 is added to the result and obtained 1
+2022-09-28 17:17:57,758 +0530 [main] DEBUG (MyClass.java:27) - 2 is divided by 1 and the result is 2
+2022-09-28 17:17:57,758 +0530 [main] DEBUG (MyClass.java:29) - 2 is added to the result and obtained 3
+2022-09-28 17:17:57,759 +0530 [main] ERROR (MyClass.java:33) - The divisor is 0
+2022-09-28 17:17:57,760 +0530 [main] DEBUG (MyClass.java:36) - The final result is 3
+2022-09-28 17:17:57,760 +0530 [main] INFO  (MyClass.java:37) - The mathematical operation is completed and the result is 3
