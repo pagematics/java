@@ -11,5 +11,6 @@ public class SLF4JExample
       
       //Logging the information
       logger.info("At the age of {} ramu got his first job", age);
+      logger.debug("At the age of {} ramu got his first job", age);
    }
 }
