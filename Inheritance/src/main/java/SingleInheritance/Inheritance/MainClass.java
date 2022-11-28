@@ -1,4 +1,4 @@
-package Inheritance.Inheritance;
+package SingleInheritance.Inheritance;
 
 public class MainClass 
 {
